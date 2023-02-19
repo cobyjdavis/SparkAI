@@ -1,5 +1,13 @@
 # SparkAI
 
+SparkAI is an AI powered virtual assistant and chat app designed to help you complete tasks and answer your most demanding questions. It uses natural language processing to understand what you want and respond accurately to your input in a conversational way. 
+
+With a single command or question, SparkAI can look up information, create images or give you step by step instructions to complete a task, or provide you with personalized recommendations. It can even complete tasks automatically, learning from your preferences and past behaviour to anticipate your needs. Whether you need help setting goals or staying on track, SparkAI is the perfect companion for complete those tasks and answering questions that are on your mind. 
+
+Fun fact...this description was generated using the app itself!
+
+Privacy Policy:
+
 This privacy policy outlines how SparkAI (“SparkAI”, “we”, “our” or “us”) collects, uses, and protects personally identifiable information (“Personal Data”) in its mobile application that uses Artificial Intelligence (“AI”), (the “App”), as well as how it manages the Artificial Intelligence system. 
 
 SparkAI does not collect any user data or infromation. We intend the app to be used solely for personal use and entertainment. 
